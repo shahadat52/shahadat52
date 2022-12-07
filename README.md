@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+![I am a Junior Front-end developer. ]([https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png](https://media-exp1.licdn.com/dms/image/D5616AQEu5FGOOOHIUg/profile-displaybackgroundimage-shrink_350_1400/0/1669221054864?e=1675900800&v=beta&t=afRXUX0tm0oOBRxfP71MlFSCbzW-ho_geN2d7b5VXTs))
 
 ## :mailbox: Reach me out
 
