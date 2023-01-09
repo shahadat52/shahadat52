@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ]
+<h2>I am a Junior Front-end developer</h2>
 
 ## :mailbox: Reach me out
 
