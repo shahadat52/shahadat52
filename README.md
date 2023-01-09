@@ -1,10 +1,10 @@
-![I am a Junior Front-end developer. ]([https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png](https://media-exp1.licdn.com/dms/image/D5616AQEu5FGOOOHIUg/profile-displaybackgroundimage-shrink_350_1400/0/1669221054864?e=1675900800&v=beta&t=afRXUX0tm0oOBRxfP71MlFSCbzW-ho_geN2d7b5VXTs))
+![I am a Junior Front-end developer. ]
 
 ## :mailbox: Reach me out
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-shahadat-hossain-a4388a221/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/profile.php?id=100012335082538)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](#)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">]([https://www.linkedin.com/in/md-shahadat-hossain-a4388a221/](https://www.linkedin.com/in/md-shahadat-hossain-a4388a221/))[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/profile.php?id=100012335082538)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](#)
 
 <br />
 
@@ -14,7 +14,7 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - Own business. 
+### 🔭 I’m working - Web Development. 
 ### 🌱 I’m exploring - Redux. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
