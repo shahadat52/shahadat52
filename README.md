@@ -1,8 +1,8 @@
 <div><img src="https://i.ibb.co/n00swgj/Shahadat-s-Banner.jpg"></div>
 <hr>
-<p align="center">
-I'm Shahadat Hossain
-</p>
+<h1 align="center">
+Hi 👋🏻 I'm Shahadat Hossain
+</h1>
 
 ## :mailbox: Reach me out
 
