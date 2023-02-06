@@ -4,7 +4,7 @@
 Hi 👋🏻 I'm Shahadat Hossain
 </h1>
 </hr>
-<h4> I'm passionate about coding </h4>
+<h4 align="center"> I'm passionate about web application development </h4>
 ## :mailbox: Reach me out
 
 <br />
@@ -13,11 +13,6 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 <br />
 
-## :eyes: Current overview
-
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
 
 ### 🔭 I’m working - Web Development. 
 ### 🌱 I’m exploring -MERN Stake.  
