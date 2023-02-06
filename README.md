@@ -16,8 +16,8 @@ Hi 👋🏻 I'm Shahadat Hossain
  [<img height="75" src="https://i.ibb.co/RTJFD8x/twitter.png">](https://twitter.com/Shahadat696/)
  [<img height="75" src="https://i.ibb.co/pZnH98X/instagram.png">](https://www.instagram.com/shahadat_hossain_mq/)
  
-### 📧 shahadathossain.sh255@gmail.com
-<br />
+ <h2 align="center"> 📧 shahadathossain.sh255@gmail.com </h2>
+  <br />
 
 
 ### 🔭 I’m working - Web Development. 
