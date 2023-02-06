@@ -9,7 +9,7 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 <br />
 [<p align="center">
- <img height="75" src="https://i.ibb.co/nbPXvDd/linkdin.png">(https://www.linkedin.com/in/md-shahadat-hossain-a4388a221) </p>
+ [<img height="75" src="https://i.ibb.co/nbPXvDd/linkdin.png">](https://www.linkedin.com/in/md-shahadat-hossain-a4388a221) </p>
 [
 
 [<p align="center">
