@@ -1,4 +1,4 @@
-<div><img src="https://i.ibb.co/bmXsWXj/rear-view-programmer-working-all-night-long-1.jpg"></div>
+<div><img height="200" src="https://i.ibb.co/bmXsWXj/rear-view-programmer-working-all-night-long-1.jpg"></div>
 
 <h2>I am a  Front-end developer</h2>
 
