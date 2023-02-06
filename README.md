@@ -3,7 +3,8 @@
 <h1 align="center">
 Hi 👋🏻 I'm Shahadat Hossain
 </h1>
-
+</hr>
+<h4> I'm passionate about coding </h4>
 ## :mailbox: Reach me out
 
 <br />
@@ -19,8 +20,7 @@ Hi 👋🏻 I'm Shahadat Hossain
 </div>
 
 ### 🔭 I’m working - Web Development. 
-### 🌱 I’m exploring - Redux. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 🌱 I’m exploring -MERN Stake.  
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
