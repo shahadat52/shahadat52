@@ -1,7 +1,8 @@
 <div><img src="https://i.ibb.co/n00swgj/Shahadat-s-Banner.jpg"></div>
 <hr>
-
-<h2 aline="center">I am a  Front-end developer</h2>
+<p align="center">
+I'm Shahadat Hossain
+</p>
 
 ## :mailbox: Reach me out
 
