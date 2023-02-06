@@ -1,7 +1,7 @@
 <div><img src="https://i.ibb.co/n00swgj/Shahadat-s-Banner.jpg"></div>
 <hr>
 
-<h2 margin="auto">I am a  Front-end developer</h2>
+<h2 aline="center">I am a  Front-end developer</h2>
 
 ## :mailbox: Reach me out
 
