@@ -21,7 +21,7 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 
 ### 🔭 I’m working - Web Development. 
-### 🌱 I’m exploring -MERN Stake.  
+### 🌱 I’m exploring -Next.js.  
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
