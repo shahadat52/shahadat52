@@ -12,7 +12,7 @@ Hi 👋🏻 I'm Shahadat Hossain
 
  [<p align="center">
  [<img height="75" src="https://i.ibb.co/nbPXvDd/linkdin.png">](https://www.linkedin.com/in/md-shahadat-hossain-a4388a221/)
-[<img height="75" src="https://i.ibb.co/PNhK96g/facebook.png">](https://web.facebook.com/profile.php?id=100012335082538/)
+ [<img height="75" src="https://i.ibb.co/PNhK96g/facebook.png">](https://web.facebook.com/profile.php?id=100012335082538/)
  [<img height="75" src="https://i.ibb.co/RTJFD8x/twitter.png">](https://twitter.com/Shahadat696/)
  [<img height="75" src="https://i.ibb.co/pZnH98X/instagram.png">](https://www.instagram.com/shahadat_hossain_mq/)
  
@@ -21,7 +21,7 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 
 ### 🔭 I’m working - Web Development. 
-### 🌱 I’m exploring -Next.js.  
+### 🌱 I’m exploring -Next.js and Vite  
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
