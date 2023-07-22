@@ -21,9 +21,8 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 
 ### 🔭 I’m working - Web Development. 
-### 🌱 I’m exploring -Next.js and Vite  
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🌱 I’m exploring -Next.js & Mongoose 
+### ⚡ Fun fact - I love to talk about NextJS and Mongoose.
 
 
 
