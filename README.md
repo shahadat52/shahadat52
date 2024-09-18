@@ -21,8 +21,8 @@ Hi 👋🏻 I'm Shahadat Hossain
 
 
 ### 🔭 I’m working - Web Development. 
-### 🌱 I’m exploring -Next.js & Mongoose 
-### ⚡ Fun fact - I love to talk about NextJS and Mongoose.
+### 🌱 I’m exploring -Next.js & Prisma
+### ⚡ Fun fact - I love to Riding bike .
 
 
 
